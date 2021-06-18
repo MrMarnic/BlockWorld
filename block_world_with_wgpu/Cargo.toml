@@ -1,0 +1,20 @@
+[package]
+name = "block_world_with_wgpu"
+version = "0.1.0"
+authors = ["MrMarnic <marceljedig@web.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rust_game_library_wgpu = {path="E:\\RustProjects\\rust_game_library_wgpu"}
+futures = "0.3.14"
+winit = "0.24.0"
+wgpu = "0.8.1"
+nalgebra-glm = "0.12.0"
+nalgebra = "0.26.2"
+parking_lot = {version = "0.11.1", features=["deadlock_detection"]}
+binary_rw = "1.0.0"
+rand = "0.8.3"
+threadpool = "1.8.1"
+noise = "0.7.0"
