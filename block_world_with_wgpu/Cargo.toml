@@ -1,7 +1,6 @@
 [package]
 name = "block_world_with_wgpu"
 version = "0.1.0"
-authors = ["MrMarnic <marceljedig@web.de>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
