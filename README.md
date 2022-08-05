@@ -6,7 +6,7 @@ Minecraft Clone made with Rust
 ![2](https://user-images.githubusercontent.com/42642302/183144772-6c98f3a5-cc8b-4849-b5db-c080013ca0ca.png)
 
 # How it works
-Custom made Game Engine made with Wgpu
+Custom made Game Engine made with Wgpu (custom made game engine used https://github.com/MrMarnic/RGL/blob/master/README.md)
 
 ## Information
 Texture files haven been removed for copyright reasons
