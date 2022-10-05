@@ -2,9 +2,9 @@
 Minecraft Clone made with Rust
 
 # Features
-Random World Generation (Noise)
-Multithreading
-Biomes
+- Random World Generation (Noise)
+- Multithreading
+- Biomes
 
 # Demonstration
 ![world](https://user-images.githubusercontent.com/42642302/183144765-3785d25f-cae0-4e79-8852-06c3bd146dbe.png)
